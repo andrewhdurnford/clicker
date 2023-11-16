@@ -36,3 +36,4 @@ wait = WebDriverWait(driver, timeout=100000000000000000000000000000000)
 newJoin = wait.until(EC.element_to_be_clickable(driver.find_element(By.XPATH, "//*[@id=\"btnJoin\"]")))
 newJoin.click()
 time.sleep(1000000)
+

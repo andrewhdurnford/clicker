@@ -1,0 +1,2 @@
+enter your username and password in the secret.py file and replace the string on line 19 with your class code
+you can then run the program at any time and it will join your class automatically provided it is left open
